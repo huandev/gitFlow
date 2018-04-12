@@ -8,5 +8,10 @@
     <artifactId>gitFlow</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <pluginRepositories></pluginRepositories>
+    <build>
+        <plugins></plugins>
+    </build>
+
 
 </project>
